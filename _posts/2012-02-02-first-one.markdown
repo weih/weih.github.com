@@ -1,0 +1,30 @@
+---
+layout:       post
+title:        "希尔瓦娜斯黑暗精灵游侠将军"
+description: 
+categories:     
+- design
+- business
+---
+
+<a href="http://www.flickr.com/photos/jaredearle/2539172947/" class="image-wrapper" style="">
+	<img class="bordered" alt="Crossroads" src="http://pic1.178.com/2/21078/month_1012/f912e44a7f2c28296c6a867eab2ea53e.jpg" style="float:right;margin-top:20px;display:block;margin-left:20px;" title="Photograph by Jared Earle under CC BY-NC-ND 2.0" /> 
+</a>
+当古尔丹召唤他们的时候，他们到来了，那些心甘情愿，甚至饥渴地将灵魂出卖给黑暗的人。他们曾经跟古尔丹一样，是有着坚定意志的生命。他们曾经研究自然世界和兽人在其中的归宿；曾向深林和平原上的野兽，天空中的鸟儿，海洋和河流中的鱼儿学习。他们曾经是这个循环的一部分，不多，也不少。这一切已经一去不复返了。
+
+### 1. 第一章
+这些过去的萨满，现在的术士们，曾极为短暂地品尝过力量，并发现那像舌头品尝到了一大滴蜜糖一样甘美无比。于是他们的饥渴得到了更多力量的回报，并且越来越多。古尔丹曾经师从耐祖奥，直到学生最终超越了老师。整个部落曾经因为耐祖奥而强大起来，由于耐祖奥没有勇气走得更远，部落不久之后便不可阻挡地崩溃了。他对族人内在的高贵品质有着温和的看法。古尔丹并没有这样的弱点。
+
+### 2. What to charge?
+Coming up with a rate ultimately comes down to one question&mdash;“How much is your time worth?”
+* _Worth to You_: Takes into account both your business related costs (insurance, superannuation, accountant, electricity, travel, hardware, software etc.) and personal considerations (spending time with family, quality of life etc.) and provides a baseline amount that you must earn to simply _meet_ your costs. 
+* _Worth to Your Client_: How much is your client happy to pay for your work? If the amount is less than the amount you arrived at in the previous step, then you have a problem, otherwise any positive difference between the two becomes your profit. This is not necessarily a fixed amount either. When charging time and materials your rate might slide lower for certain non-profits or regular customers, and higher for rush or our of hours work. When charging fixed price you can calculate your charge based on your effort, but you may also factor in the value of the outcome to the client.
+
+There are a lot of moving parts to the pricing equation and different models can work for different people in different situations.  I've barely scratched the surface here, but if you're interested in some excellent further reading on the subject [Jessica Hische][3]'s wonderful [Dark Art of Pricing][2] is a must read, as is [Jason Blumer][4]'s [Pricing Strategy for Creatives][1] at A List Apart.
+
+So, how do you do _your_ pricing?
+
+[1]:http://www.alistapart.com/articles/pricing-strategy-for-creatives/
+[2]:http://www.jessicahische.is/obsessedwiththeinternet/andhelpingyougetpaid/the-dark-art-of-pricing
+[3]:https://twitter.com/#!/jessicahische
+[4]:https://twitter.com/#!/JasonMBlumer

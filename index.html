@@ -1,0 +1,24 @@
+---
+layout:   default
+title:    Home 
+--- 
+<div class="span-12 last">
+  <p class="first">
+    Hi! I'm a software <span class="ampersand">&amp;</span> web developer. <br/>I love illustration, design <span class="ampersand">&amp;</span> the web
+  </p>
+  
+  <p class="second">    
+    This is my personal website. Here you can find out more <a href="/about.html">about</a> me, see what I'm <a href="{{ site.dribbble }}">working on</a>, have a look through my <a href="/folio.html">portfolio</a> or peruse the <a href="/notebook.html">notebook</a> for my ramblings on development, design, art, politics and anything else that grabs my attention.
+  </p>
+  <p>I respond to emails sent to <a href="mailto:{{ site.email }}">dave@dlimiter.net</a>, so feel free to drop me line if you'd like to chat.</p>
+</div>
+
+<div id="latest-notes" class="span-12 last">  
+  <h2>Latest notes</h2>
+  {% for post in site.posts limit:2 %}
+    {% include post_excerpt.html %}    
+  {% endfor %}
+  <p>
+    For older posts, have a look in the <a href="/notebook.html">notebook</a>.
+  </p>
+</div>

@@ -1,0 +1,14 @@
+permalink:    /:year/:month/:day/:title
+analytics_id: UA-19957147-1
+title:        Willmouse
+description:  Personal website of willmouse
+url:          http://willmouse.me
+#url:          http://0.0.0.0:4000
+author:       willmouse
+email:        dave@dlimiter.net
+twitter:      http://twitter.com/willmouse
+github:       http://github.com/willmouse
+keywords:     design,development,software,illustration,css,html,ruby,rails,blog
+comments:     true
+feed:         http://feeds.feedburner.com/willmouse
+ignore:       _blog, _posts/folio
