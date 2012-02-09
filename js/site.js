@@ -3,7 +3,6 @@
 
 $(document).ready(function () {
   /* Apply fancybox to multiple items */
-  if (document.title.search('Portfolio') != -1) {
     $("a.folio-image-wrapper").fancybox({
      'transitionIn'   : 'elastic',
      'transitionOut'  : 'elastic',
@@ -14,7 +13,6 @@ $(document).ready(function () {
      'showNavArrows'  : true,
      'titleFormat'    : formatTitle
     });
-  }
     
   $('.error').hide();      
   // Hide any validation error elements
