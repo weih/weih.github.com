@@ -8,7 +8,7 @@ This is the structure and content of my personal blog, powered by [Jekyll][1].
 
 # License
 
-The following directories and their contents are Copyright to Dave Lim. You may not reuse or republish anything therein without my permission:
+The following directories and their contents are Copyright to willmouse(other HTML, CSS, Javascript are Copyright to Dave Lim). You may not reuse or republish anything therein without my permission:
 
 * `_posts/` 
 * `_drafts/`
