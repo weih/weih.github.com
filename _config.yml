@@ -1,14 +1,14 @@
 permalink:    /:year/:month/:day/:title
-analytics_id: UA-19957147-1
+analytics_id: UA-29179786-1
 title:        Willmouse
 description:  Personal website of willmouse
 url:          http://willmouse.com
 #url:          http://0.0.0.0:4000
 author:       willmouse
-email:        willmouse1989@gmail.com
+email:        xiaohaoprog@gmail.com
 twitter:      http://twitter.com/willmouse
 github:       http://github.com/weih
 keywords:     web,development,software,css,html,ruby,rails,blog,game
 comments:     true
-feed:         http://feeds.feedburner.com/willmouse
+feed:         http://willmouse.com/atom.xml
 ignore:       _blog, _posts/folio

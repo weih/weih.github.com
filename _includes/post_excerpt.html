@@ -3,8 +3,11 @@
   <div class="post byline">
       {{ post.date | date: "%d %b, %Y" }}
   </div>
+  <div>
+    <img class="bordered" alt="screenshot" src={{ post.banner }} style="width:70%;" />
+  </div>
   <div class="post excerpt content">
-    {{ post.content | truncatewords: 15, "..." }}
+    {{ post.content | truncatewords: 15 }}
     <div class="post excerpt read-more">
       <p>
         <a href="{{ post.url }}">read more &rarr;</a>
