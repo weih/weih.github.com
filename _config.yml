@@ -12,3 +12,5 @@ keywords:     web,development,software,css,html,ruby,rails,blog,game
 comments:     true
 feed:         http://willmouse.com/atom.xml
 ignore:       _blog, _posts/folio
+markdown: rdiscount
+pygments: true
