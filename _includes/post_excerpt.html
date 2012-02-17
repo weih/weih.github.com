@@ -4,14 +4,11 @@
       {{ post.date | date: "%d %b, %Y" }}
   </div>
   <div>
+    {% if page.banner %}
     <img class="bordered" alt="screenshot" src={{ post.banner }} style="width:70%;" />
+    {% endif %}
   </div>
   <div class="post excerpt content">
-    {{ post.content | truncatewords: 15 }}
-    <div class="post excerpt read-more">
-      <p>
-        <a href="{{ post.url }}">read more &rarr;</a>
-      </p>
-    </div>
+    {{ post.content }}
   </div>
 </article>
