@@ -3,11 +3,11 @@
   <div class="post byline">
       {{ post.date | date: "%d %b, %Y" }}
   </div>
-  <div>
-    {% if page.banner %}
+  {% if post.banner %}
+  <div>    
     <img class="bordered" alt="screenshot" src={{ post.banner }} style="width:70%;" />
-    {% endif %}
   </div>
+  {% endif %}  
   <div class="post excerpt content">
     {{ post.content }}
   </div>

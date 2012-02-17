@@ -2,7 +2,7 @@
 layout:       post
 title:        "搭建Mac + Rails + Mongodb + Rspec开发环境"
 description: 
-banner: "/img/posts/geekdoor02.png"
+banner: 
 categories: 
 - development
 - rails
