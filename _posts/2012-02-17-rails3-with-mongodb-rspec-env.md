@@ -11,7 +11,7 @@ categories:
 ---
 鉴于要做`极客的任意门`这东东，这里简单记录下一个最基本的开发环境的搭建，以及注意事项，供大家参考。
 
-环境为Mac + Ruby 1.9.3 + Rails 3.2.1 + Mongodb + Rspec，没用过，这次正好都用最新的看看。
+环境为Mac + Ruby 1.9.3 + Rails 3.2.1 + Mongodb + Rspec，重写以前的项目，这次就都用最新版本的好了。
 
 # 一、Mongodb
 安装不多，官网很详细，推荐[homebrew][1]。若使用homebrew安装，安装完之后记得看info，里面有让mongodb默认daemon启动方法以及开机启动的代码，复制粘贴即可。
@@ -87,6 +87,11 @@ require "sprockets/railtie"
 # config.active_record.auto_explain_threshold_in_seconds = 0.5
 {% endhighlight %} 
 
+编辑config/enviroments/test.rb，注视该行
+{% highlight ruby %}
+# Raise exception on mass assignment protection for Active Record models
+# config.active_record.mass_assignment_sanitizer = :strict
+{% endhighlight %} 
 # 五、config
 
 在rails项目目录下：
