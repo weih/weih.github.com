@@ -87,7 +87,7 @@ require "sprockets/railtie"
 # config.active_record.auto_explain_threshold_in_seconds = 0.5
 {% endhighlight %} 
 
-编辑config/enviroments/test.rb，注视该行
+编辑config/enviroments/test.rb，注释该行
 {% highlight ruby %}
 # Raise exception on mass assignment protection for Active Record models
 # config.active_record.mass_assignment_sanitizer = :strict
