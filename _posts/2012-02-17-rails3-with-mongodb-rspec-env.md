@@ -31,7 +31,7 @@ $ mate .rvmrc # add rvm use 1.9.3@project_name --create
 
 {% highlight bash %}
 $ gem install rails # 在project_name这个gemset下安装最新版rails，目前是3.2.1。这样就可以在此目录下生成最新的rails项目了
-$ rails new app -T # -T 表示不生成/test目录，我们用rspec
+$ rails new app -T -O# -T 表示不生成/test目录，-O表示不生成active_record相关内容
 {% endhighlight %}
 
 ruby-china的wiki里有一个[实用指南][2]，值得一看
@@ -66,7 +66,9 @@ $ bundle install
 
 # 四、删除Active_Record内容
 
-首先删除config/database.yml
+若创建项目时没有加上-O，则可以如下操作来消除active_record依赖：
+
+删除config/database.yml
 
 编辑config/application.rb，不加载active_record
 {% highlight ruby %}
