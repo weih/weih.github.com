@@ -105,6 +105,7 @@ body,h1,h2,h3,h4,h5 {
 }
 
 body {
+	background: url("/img/texture.png") repeat scroll 0 0 #FFFFFF;
   font-weight: 300;  
   color: @base-text-grey;
   line-height:1.5em;
@@ -141,20 +142,21 @@ a:hover {
 }
 
 pre, code {
-  .rounded-corners(5px);
-  background-color:@lighter-grey;  
+  .rounded-corners(3px);
+	font-family: Monaco,"Andale Mono","Courier New",monospace;
 }
 
 pre {
+	background-color: #EEEEEE;
+	border: 1px solid #DDDDDD;
   margin: 5px 0;
-  padding:10px;
+  padding: 5px;
   overflow: auto;
 }
 
 code {
-  font-size: 0.8em;
-  text-shadow: 0 1px 0 rgba(255,255,255,1);
-  padding:2px;
+  font-size: 12px;
+  padding: 2px;
 }
 
 blockquote {
@@ -270,7 +272,7 @@ footer {
   padding: 0 0 5px 0;
   font-size: 12px;
   border-top: 1px solid @lightish-grey; 
-  background-color: @lighter-grey;
+  background: url("/img/texture.png") repeat scroll 0 0 #DDDDDD;
 }
 
 ul#contact-icons li {
