@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-rvm 1.9.2@willmouse.com
+rvm use 1.9.2@willmouse.com
