@@ -2,6 +2,8 @@
 ---
 
 $(document).ready(function () {
+    $('.content a').attr('target','_blank');
+    
   /* Apply fancybox to multiple items */
     $("a.folio-image-wrapper").fancybox({
      'transitionIn'   : 'elastic',

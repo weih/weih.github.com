@@ -9,7 +9,7 @@ categories:
 - code
 ---
 <center>
-  <img class="bordered" alt="screenshot" src="/img/posts/pull-request.jpg" style="margin-top:20px; width:100%;" />
+  <a href="/img/posts/pull-request.jpg" class="folio-image-wrapper"><img class="bordered" alt="screenshot" src="/img/posts/pull-request.jpg" style="margin-top:20px; width:100%;" /></a>
 </center>
 
 就在昨天，终于向开源界贡献了一次代码，贡献的内容如此之简单，说来都不好意思：

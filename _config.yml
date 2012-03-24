@@ -5,12 +5,12 @@ description:  Personal website of willmouse
 url:          http://willmouse.com
 #url:          http://0.0.0.0:4000
 author:       willmouse
-email:        xiaohaoprog@gmail.com
+email:        imwillmouse@gmail.com
 twitter:      http://twitter.com/willmouse
 github:       http://github.com/weih
 keywords:     web,development,software,css,html,ruby,rails,blog,game
 comments:     true
 feed:         http://willmouse.com/atom.xml
 ignore:       _blog, _posts/folio
-markdown: rdiscount
-pygments: true
+markdown:     rdiscount
+pygments:     true
