@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "山口山英雄榜记录器"
+title:        "山口山狗熊榜记录器"
 description: 
 banner: 
 categories: 
