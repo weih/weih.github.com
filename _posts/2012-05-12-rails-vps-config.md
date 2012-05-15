@@ -33,10 +33,6 @@ root@li413-47:~# apt-get install nodejs
 
 root@li413-47:~# gem install bundler --no-ri --no-rdoc
 
-root@li413-47:~# apt-get -y install mysql-server mysql-client libmysqlclient-dev
-root@li413-47:~# apt-get -y install mysql-server mysql-client libmysqlclient-dev
-root@li413-47:~# apt-get -y install mysql-server mysql-client libmysqlclient-dev
-root@li413-47:~# apt-get -y install mysql-server mysql-client libmysqlclient-dev
-{% endhighlight %} 
 
 contiune.....
+{% endhighlight %} 

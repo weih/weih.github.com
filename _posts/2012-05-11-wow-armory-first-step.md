@@ -7,6 +7,7 @@ categories:
 - development
 - rails
 - code
+- game
 ---
 <center>
   <a href="/img/posts/armory_first_step.jpg" class="folio-image-wrapper"><img class="bordered" alt="screenshot" src="/img/posts/armory_first_step.jpg" style="margin-top:20px; width:100%;" /></a>
