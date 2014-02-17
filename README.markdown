@@ -19,4 +19,3 @@ All other HTML, CSS and javascript is free for your use under a [Creative Common
 [1]:http://github.com/mojombo/jekyll
 [2]:https://gist.github.com/639920/
 [3]:http://creativecommons.org/licenses/by/3.0/
- 
